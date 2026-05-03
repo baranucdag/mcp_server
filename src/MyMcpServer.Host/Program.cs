@@ -20,6 +20,7 @@ builder.Services
 
 // Servisleri DI'ya ekle
 builder.Services.AddSingleton<FileSystemService>();
+builder.Services.AddSingleton<GitHubService>();
 
 var app = builder.Build();
 await app.RunAsync();
