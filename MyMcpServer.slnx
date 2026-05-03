@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/MyMcpServer.Host/MyMcpServer.Host.csproj" />
+    <Project Path="src/MyMcpServer.Services/MyMcpServer.Services.csproj" />
+    <Project Path="src/MyMcpServer.Tools/MyMcpServer.Tools.csproj" />
+  </Folder>
+</Solution>
